@@ -36,9 +36,11 @@ Findings:
 
 ## Interactive dashboard
 
-`outputs/southampton_coffee_dashboard.html` is a standalone page. Double click it to open it in a browser. It needs an internet connection for the map tiles. It offers OpenStreetMap, Esri streets and Esri satellite basemaps, a ranked list, a minimum share filter and an opacity slider.
+**[Open the live dashboard](https://emargaritis.github.io/terrio-southampton-coffee-shop/outputs/southampton_coffee_dashboard.html)**
 
-OpenStreetMap tiles usually refuse pages opened as local files, so the page starts on Esri streets in that case.
+The dashboard offers OpenStreetMap, Esri streets and Esri satellite basemaps, a ranked list, a minimum share filter and an opacity slider. It needs an internet connection for the map tiles.
+
+If you download the file and open it from your computer, OpenStreetMap usually refuses to load, so the page starts on Esri streets instead.
 
 ## How terrio was used
 
