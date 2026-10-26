@@ -1,0 +1,13 @@
+Rank,LSOA code,Neighbourhood,Share aged 25 to 34 (%),Land outside 1 mile zone (%),Land outside 1 mile zone (km2),Status,Borderline,Borderline reason
+1,E01017246,Southampton 010A,21.6,100.0,0.3,Fully outside zone,No,
+2,E01017276,Southampton 031C,21.0,90.2,0.2,Partly inside zone,No,
+3,E01017152,Southampton 006D,20.9,100.0,0.3,Fully outside zone,No,
+4,E01017172,Southampton 014B,20.7,50.7,0.2,Partly inside zone,Yes,under 60% of land outside the zone
+5,E01017213,Southampton 015E,20.0,97.2,0.2,Partly inside zone,No,
+6,E01035447,Southampton 031G,19.9,98.4,0.2,Partly inside zone,No,
+7,E01017281,Southampton 032D,19.6,100.0,0.3,Fully outside zone,No,
+8,E01017187,Southampton 002E,19.2,100.0,0.4,Fully outside zone,No,
+9,E01035443,Southampton 005H,18.8,100.0,0.2,Fully outside zone,No,
+10,E01017251,Southampton 010C,18.6,100.0,0.4,Fully outside zone,No,
+11,E01017171,Southampton 014A,18.2,100.0,0.3,Fully outside zone,Yes,share within 0.5 points of the cut off
+12,E01017242,Southampton 007C,18.0,100.0,0.3,Fully outside zone,Yes,share within 0.5 points of the cut off
